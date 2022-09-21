@@ -1,0 +1,15 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## 1.22.0 (2022-09-21)
+
+
+### Features
+
+* support bigint & add bigint theme ([c0b4f7e](https://github.com/duiyuan/react-json-view/commit/c0b4f7e17b341e90efddab4548af4c415cf3f49c))
+
+
+### Bug Fixes
+
+* missing quotesOnKeys props in TS typings ([25f5205](https://github.com/duiyuan/react-json-view/commit/25f5205f78663a37610295268bf3f7c669592681))
