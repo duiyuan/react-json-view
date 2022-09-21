@@ -38,7 +38,7 @@ jobs:
         run: |
           echo 'print secrets.GITHUB_TOKEN ${{ secrets.GITHUB_TOKEN }}'
           npx standard-version
-          git push --follow-tags origin main
+          git push --follow-tags origin master
 
       - name: Npm publish
         env:

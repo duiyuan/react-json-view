@@ -1,10 +1,10 @@
 name: ci_tests
 
 on:
-  pull_request:
-    branches:
-    - master
-  push:
+  # pull_request:
+    # branches:
+    # - master
+  # push:
 
 jobs:
   test:
