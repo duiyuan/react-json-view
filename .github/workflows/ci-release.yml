@@ -6,7 +6,7 @@ on:
     branches: [master]
 jobs:
   release:
-    name: Release
+    name: ci-release
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -40,7 +40,7 @@ jobs:
           npx standard-version
           git push --follow-tags origin master
 
-      - name: Npm publish
+      - name: release
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |

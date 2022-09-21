@@ -95,11 +95,11 @@
         "treeview"
     ],
     "license": "MIT",
-    "author": "Mac Gainor",
+    "author": "dioxide-js",
     "bugs": {
-        "url": "https://github.com/mac-s-g/react-json-view/issues"
+        "url": "https://github.com/duiyuan/react-json-view/issues"
     },
-    "homepage": "https://github.com/mac-s-g/react-json-view",
+    "homepage": "https://github.com/duiyuan/react-json-view",
     "directories": {
         "docs": "docs",
         "test": "test"
