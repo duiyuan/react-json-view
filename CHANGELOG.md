@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.23.0](https://github.com/duiyuan/react-json-view/compare/v1.22.1...v1.23.0) (2022-11-14)
+
+
+### Features
+
+* declare displayArrayKey type ([6d888d8](https://github.com/duiyuan/react-json-view/commit/6d888d84640eaa00a9024d3fe82704f8391813f2))
+
 ### [1.22.1](https://github.com/duiyuan/react-json-view/compare/v1.22.0...v1.22.1) (2022-09-21)
 
 ## 1.22.0 (2022-09-21)
