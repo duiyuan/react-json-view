@@ -141,6 +141,8 @@ export interface ReactJsonViewProps {
    * Default: null
    */
   defaultValue?: TypeDefaultValue | TypeDefaultValue[] | null;
+
+  displayArrayKey?: boolean
 }
 
 export interface OnCopyProps {
